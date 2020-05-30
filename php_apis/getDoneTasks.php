@@ -11,8 +11,8 @@ $json_string = file_get_contents('php://input');  // raw data
 // JSONエンコードされた文字列をArrayに
 $contents = json_decode($json_string, true);
 
-$link = new mysqli("mysql8004.xserver.jp", "kn46itblog_wp1",
-                   "bf672rr3d6", "kn46itblog_tsghack");
+$link = new mysqli("mysqlhost", "user",
+                   "password", "database");  // Needed to fix in your environment.
 $link -> set_charset("utf8");
 
 // DBにからログイン時間の取り出し, user_hash 生成
