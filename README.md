@@ -9,6 +9,6 @@
 
 ## Contributor  
 S.M(@morisu24)  
-R.W(@)  
+R.W(@ryoyawakuwaku)  
 Y.K(@kami9811)  
 S.S(@)  
