@@ -8,7 +8,7 @@
 [done_tasks](https://www.notion.so/4ccdf82a92d241bc948ccfe546204de5?v=a419de51deb444b99a2b4bf58a0b7ded)
 
 ## Contributor  
-S.M(@)  
+S.M(@morisu24)  
 R.W(@)  
 Y.K(@kami9811)  
 S.S(@)  
