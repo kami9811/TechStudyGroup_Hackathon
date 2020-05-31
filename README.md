@@ -10,7 +10,7 @@
 S.M(@morisu24)  
 R.W(@ryoyawakuwaku)  
 Y.K(@kami9811)  
-S.S(@)  
+S.S(@sano-s)  
 
 ## 利用規約  
 本ソースは株式会社VOYAGE GROUPの主宰するハッカソンに参加した学生4人によって作成されました。  
