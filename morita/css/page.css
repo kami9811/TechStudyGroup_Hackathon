@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* page.html */
+.page {
+    max-width: 1400px;
+    width: 80%;
+    margin: 30px auto 0;
+}
+.header {
+    background: radial-gradient(#f5f5f5, #ffffff);
+}
+.logo img {
+    max-width: 500px;
+    width: 15vw;
+}
+.logout button{
+    font-size: 1vw;
+    color: white;
+    background: #4170BC;
+    float: right;
+    margin: 1.5% 20px 0 0;
+}
+.logout button:hover{
+    opacity: 0.8;
+    color: white;
+}
+.main {
+    margin-top: 20px;
+    height: 80vh;
+    border: 3px solid #4170BC;
+    border-radius: 10px;
+}
+.select-btn {
+    writing-mode: vertical-rl;
+}
+.single-btn {
+    cursor: pointer;
+    color: #4170BC;
+    position: relative;
+    right: 2.1em;
+    top: -0.1em;
+    padding: 1em 0.1em;
+    border: 2px solid #4170BC;
+    border-radius: 10px 10px 10px 0;
+}
+.multi-btn {
+    cursor: pointer;
+    color: #4170BC;
+    position: relative;
+    top: 9em;
+    right: 0.1em;
+    padding: 1.5em 0.2em 0em 0em;
+    border: 2px solid #4170BC;
+    border-radius: 0px 10px 10px 0;
+}
+.current {
+    color: white;
+    background: #4170BC;
+}
+.no-display {
+    display: none;
+}
+.single {
+    position: relative;
+    top: -9em;
+    width: 90%;
+    margin: 10px auto 0;
+}
+.task {
+    border: 2px solid #f0f0f0;
+}
+.multi {
+    position: relative;
+    top: -9em;
+    width: 90%;
+    margin: 10px auto 0;
+}
+
+/*マルチで追加分 morita*/
+.multi .circle {
+  color: #fff;
+  background-color: #4071bc;
+  padding: 0;
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.circle.pri_0 {
+    width: 180px;
+    height: 180px;
+    background-color: #ff2d1e;
+}
+.circle.pri_1 {
+    width: 150px;
+    height: 150px;
+    background-color: #ff9637;
+}
+.circle.pri_2 {
+    width: 130px;
+    height: 130px;
+    background-color: #5ac86e;
+}
+.circle.pri_3 {
+    width: 100px;
+    height: 100px;
+}
+.circle.pri_4 {
+    width: 80px;
+    height: 80px;
+}
+
+/* ===== */

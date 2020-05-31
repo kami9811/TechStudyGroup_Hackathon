@@ -6,9 +6,9 @@ $api = "/php_apis/signup.php";  // APIの指定
 $url = $workspace.$api;
 // JSONにするオブジェクトの構成例
 $data = array(
-  "email" => "waku@gmail.com",
-  "id" => "waku",
-  "password" => "wakuwaku"
+  "email" => "w@gmail.com",
+  "id" => "w",
+  "password" => "www"
 );
 // JSON形式に変換
 $data = json_encode($data);
