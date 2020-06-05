@@ -4,7 +4,7 @@
 ***https://www.notion.so/APIs-80efdfe177294b0fbfca40a11ac3265d***  
 
 ## Operated Service
-👉https://kn46itblog.com/hackathon/TechStudyGroup/
+👉https://kn46itblog.com/Q-work_for_ToDo/
 
 ## Contributor  
 S.M(@morisu24)  
